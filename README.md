@@ -34,9 +34,12 @@
 
 ## 📌 Proyectos destacados
 
-- 🌐 [**portafolio**](https://github.com/ninjadiego/portafolio) — Mi portafolio personal con CV web (GitHub Pages).
-- 📚 [**practicas-js**](https://github.com/ninjadiego/practicas-js) — Ejercicios y prácticas de JavaScript.
-- 🚀 [**proyecto-inicial**](https://github.com/ninjadiego/proyecto-inicial) — Repositorio base para mi primer proyecto de trabajo.
+- 🚀 [**taskflow-api**](https://github.com/ninjadiego/taskflow-api) — API REST de gestión de tareas con **Go + Gin + JWT + GORM + SQLite**. Arquitectura limpia, autenticación JWT, tests unitarios, CI/CD con GitHub Actions y Docker.
+- 🔐 [**go-rest-api**](https://github.com/ninjadiego/go-rest-api) — RESTful API con Go, Gin, autenticación JWT y MySQL. Arquitectura limpia, lista para producción.
+- 🗄️ [**api-rest-go-mysql**](https://github.com/ninjadiego/api-rest-go-mysql) — API REST en Go conectada a MySQL con operaciones CRUD y manejo de base de datos relacional.
+- 🔑 [**golang-jwt**](https://github.com/ninjadiego/golang-jwt) — Implementación de autenticación con JWT (JSON Web Tokens) en Go. Práctica de seguridad en APIs REST.
+- 🌐 [**portafolio**](https://github.com/ninjadiego/portafolio) — Mi portafolio personal con CV web (GitHub Pages)
+---
 
 ---
 
